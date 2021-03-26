@@ -1,3 +1,11 @@
+### Updates
+This branch is tested with 
+* Python3
+* tensorflow-gpu==2.4.1
+* CUDA 11.1
+* Nvidia Driver 450.80.02
+* Ubuntu 18.04
+
 ### PointNet++: *Deep Hierarchical Feature Learning on Point Sets in a Metric Space*
 Created by <a href="http://charlesrqi.com" target="_blank">Charles R. Qi</a>, <a href="http://stanford.edu/~ericyi">Li (Eric) Yi</a>, <a href="http://ai.stanford.edu/~haosu/" target="_blank">Hao Su</a>, <a href="http://geometry.stanford.edu/member/guibas/" target="_blank">Leonidas J. Guibas</a> from Stanford University.
 
